@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Divyansh Ahuja
-- I’m working in AI/CV
-- 🌱 I’m currently a senior Undergraduate at IIT Bombay
-- 📫 How to reach me..? divyansh9801@gmail.com
 
 <!---
 gawddivyansh/gawddivyansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
